@@ -22,6 +22,10 @@
 
 **🎓 DeepWiki: [Generating GitHub Knowledge Base Documentation in One Click](https://deepwiki.com/diaoquesang/DL4VS).**
 
+**📦 Other resources: [1] [A Paper List for Medical Anomaly Detection](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection), [2] [Bone Suppression in Chest X-Rays: A Deep Survey](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays), [3] [A Paper List for Prototypical Learning](https://github.com/BeistMedAI/Paper-List-for-Prototypical-Learning), [4] [A Paper List for Cell Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection), [5] [Medical-AI-Guide](https://github.com/diaoquesang/Medical-AI-Guide/), [6] [Paper List for Medical Reasoning Large Language Models](https://github.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models).**
+
+### Welcome to join us by contacting: szhsxhsyf@hdu.edu.cn.
+
 <div>
 <img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/HDU.png" height="45px" href="https://www.hdu.edu.cn/">
 <img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/ITMO.jpg" height="45px" href="https://en.itmo.ru/">
