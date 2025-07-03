@@ -77,7 +77,7 @@ Recent advances in DL models (e.g., GANs, U-Nets, diffusion models) have demonst
 |MS-SSIM|Multi-Scale SSIM|  ![MS-SSIM Formula](https://latex.codecogs.com/svg.image?\prod_{j=1}^{M}\left&space;[&space;\frac{2\mu_{y_j}\mu_{\hat{y}_j}&space;&plus;&space;C_1}{\mu_{y_j}^2&space;&plus;&space;\mu_{\hat{y}_j}^2&space;&plus;&space;C_1}&space;\right]^{\alpha_j}\cdot&space;\left[&space;\frac{2\sigma_{y_j\hat{y}_j}&plus;C_2}{\sigma_{y_j}^2&space;&plus;&space;\sigma_{\hat{y}_j}^2&space;&plus;&space;C_2}&space;\right]^{\beta_j})|Structural Integrity|
 |FID|Fréchet Inception Distance|$$\|\mu_r - \mu_g\|^2 + \text{Tr}(\Sigma_r + \Sigma_g - 2\sqrt{\Sigma_r\Sigma_g})$$|Perceptual Realism|
 |IS|Inception Score|$$\exp\left(\mathbb{E}_{\hat{y}} \text{KL}(p(y\|\hat{y}) \| p(y))\right)$$|Perceptual Realism|
-|LPIPS|Learned Perceptual Image Patch Similarity|$$\sum_{l} \frac{1}{H_lW_l}\sum_{h,w} \|w_l \odot (\phi_l(y)_{hw} - \phi_l(\hat{y})_{hw})\|^2_2$$|Perceptual Realism|
+|LPIPS|Learned Perceptual Image Patch Similarity|![LPIPS Formula](https://latex.codecogs.com/png.image?\dpi{200}\sum_{l}%20\frac{1}{H_lW_l}\sum_{h,w}%20\|w_l%20\odot%20(\phi_l(y)_{hw}%20-%20\phi_l(\hat{y})_{hw})\|^2_2)|Perceptual Realism|
 
 </div>
 
