@@ -85,6 +85,19 @@ Recent advances in DL models (e.g., GANs, U-Nets, diffusion models) have demonst
 
 </div>
 
+## 💞 Citation
+
+```
+@misc{sun2025,
+  author = {Sun, Yifei and Li, Jincheng},
+  title = {Deep Learning for Virtual Staining of Label-Free Tissue: A Survey},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/diaoquesang/DL4VS}}
+}
+```
+
 ## 🥰 Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/DL4VS&type=Date)](https://star-history.com/#diaoquesang/DL4VS&Date)
 
