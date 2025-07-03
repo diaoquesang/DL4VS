@@ -19,3 +19,5 @@
 </div>
 
 **🦉 Contributors: [Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/), [Jincheng Li (23' NTU Undergraduate)](https://github.com/li00000011).**
+
+**🎓 DeepWiki: [Generating GitHub Knowledge Base Documentation in One Click](https://deepwiki.com/diaoquesang/DL4VS).**
