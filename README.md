@@ -10,10 +10,10 @@
 <div align="center">
   
 
-[![](https://img.shields.io/github/stars/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)
-[![](https://img.shields.io/github/forks/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)
-[![](https://img.shields.io/github/issues/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/issues)
-[![](https://img.shields.io/github/license/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/LICENSE) 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FPaper-List-for-Medical-Anomaly-Detection&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FPaper-List-for-Medical-Anomaly-Detection)
+[![](https://img.shields.io/github/stars/diaoquesang/DL4VS)](https://github.com/diaoquesang/DL4VS)
+[![](https://img.shields.io/github/forks/diaoquesang/DL4VS)](https://github.com/diaoquesang/DL4VS)
+[![](https://img.shields.io/github/issues/diaoquesang/DL4VS)](https://github.com/diaoquesang/DL4VS/issues)
+[![](https://img.shields.io/github/license/diaoquesang/DL4VS)](https://github.com/diaoquesang/DL4VS/blob/main/LICENSE) 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FDL4VS&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FDL4VS)
 
 </div>
