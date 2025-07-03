@@ -17,3 +17,5 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FDL4VS&label=visitors&countColor=%239797fa&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FDL4VS)
 
 </div>
+
+**🦉 Contributors: [Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/), [Jincheng Li (23' NTU Undergraduate)](https://github.com/li00000011).**
