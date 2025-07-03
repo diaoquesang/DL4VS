@@ -51,10 +51,10 @@ Recent advances in DL models (e.g., GANs, U-Nets, diffusion models) have demonst
 
 <div align="center">
 
-|Source|Year|Title|Graph|Paper|Code|Dataset|
+|Source|Year|Title|Graph|Paper|Code|
 |-|-|-|-|-|-|-|
-|Nature Communications|2025|Pixel Super-Resolved Virtual Staining of Label-Free Tissue Using Diffusion Models|![image](https://github.com/user-attachments/assets/e44d8ace-6b73-4e3d-baf6-917b86c89fd2)|https://www.nature.com/articles/s41467-025-60387-z|[:octocat:](https://github.com/Yijie-Zhang/Super-resolved-virtual-staining)||
-|Nature Biomedical Engineering|2019|Virtual Histological Staining of Unlabelled Tissue-Autofluorescence Images via Deep Learning|![image](https://github.com/user-attachments/assets/8c9d3ae5-d504-4114-8af8-0bf79e16ec4e)|https://www.nature.com/articles/s41551-019-0362-y|||
+|Nature Communications|2025|Pixel Super-Resolved Virtual Staining of Label-Free Tissue Using Diffusion Models|![image](https://github.com/user-attachments/assets/e44d8ace-6b73-4e3d-baf6-917b86c89fd2)|https://www.nature.com/articles/s41467-025-60387-z|[:octocat:](https://github.com/Yijie-Zhang/Super-resolved-virtual-staining)|
+|Nature Biomedical Engineering|2019|Virtual Histological Staining of Unlabelled Tissue-Autofluorescence Images via Deep Learning|![image](https://github.com/user-attachments/assets/8c9d3ae5-d504-4114-8af8-0bf79e16ec4e)|https://www.nature.com/articles/s41551-019-0362-y||
 </div>
 
 ## 🔢 3. Datasets <div id = "s3"></div>
