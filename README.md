@@ -57,6 +57,7 @@ Recent advances in DL models (e.g., GANs, U-Nets, diffusion models) have demonst
 |Nature Communications|2024|Virtual Histological Staining of Unlabeled Autopsy Tissue|![image](https://github.com/user-attachments/assets/e54e0668-0ee1-4d37-890d-12bf7e409bf4)|https://www.nature.com/articles/s41467-024-46077-2|[:octocat:](https://github.com/liyuzhu1998/Autopsy-Virtual-Staining/)|
 |Light-Science & Applications|2023|Deep Learning-Enabled Virtual Histological Staining of Biological Samples|![image](https://github.com/user-attachments/assets/e3fdf413-c8a9-4eda-8e90-a87e47158b26)|https://www.nature.com/articles/s41377-023-01104-7||
 |Nature Biomedical Engineering|2019|Virtual Histological Staining of Unlabelled Tissue-Autofluorescence Images via Deep Learning|![image](https://github.com/user-attachments/assets/8c9d3ae5-d504-4114-8af8-0bf79e16ec4e)|https://www.nature.com/articles/s41551-019-0362-y||
+
 </div>
 
 
@@ -64,6 +65,21 @@ Recent advances in DL models (e.g., GANs, U-Nets, diffusion models) have demonst
 ## 🔢 3. Datasets <div id = "s3"></div>
 
 ## 💯 4. Metrics <div id = "s4"></div>
+
+<div align="center">
+
+|Metric|Full Name|Formula|Purpose|
+|-|-|-|-|
+|MAE|Mean Absolute Error|$$\frac{1}{n}\sum_{i=1}^{n}\|y_i - \hat{y}_i\|$$|Low-Level Fidelity|
+|MSE|Mean Squared Error|$$\frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$|Low-Level Fidelity|
+|PSNR|Peak Signal-to-Noise Ratio|$$20 \cdot \log_{10}\left(\frac{\text{MAX}_I}{\sqrt{\text{MSE}}}\right)$$|Low-Level Fidelity|
+|SSIM|Structural Similarity Index Measure|$$\frac{(2\mu_y\mu_{\hat{y}} + C_1)(2\sigma_{y\hat{y}} + C_2)}{(\mu_y^2 + \mu_{\hat{y}}^2 + C_1)(\sigma_y^2 + \sigma_{\hat{y}}^2 + C_2)}$$|Structural Integrity|
+|MS-SSIM|Multi-Scale SSIM|  ![MS-SSIM Formula](https://latex.codecogs.com/svg.image?\prod_{j=1}^{M}\left&space;[&space;\frac{2\mu_{y_j}\mu_{\hat{y}_j}&space;&plus;&space;C_1}{\mu_{y_j}^2&space;&plus;&space;\mu_{\hat{y}_j}^2&space;&plus;&space;C_1}&space;\right]^{\alpha_j}\cdot&space;\left[&space;\frac{2\sigma_{y_j\hat{y}_j}&plus;C_2}{\sigma_{y_j}^2&space;&plus;&space;\sigma_{\hat{y}_j}^2&space;&plus;&space;C_2}&space;\right]^{\beta_j})|Structural Integrity|
+|FID|Fréchet Inception Distance|$$\|\mu_r - \mu_g\|^2 + \text{Tr}(\Sigma_r + \Sigma_g - 2\sqrt{\Sigma_r\Sigma_g})$$|Perceptual Realism|
+|IS|Inception Score|$$\exp\left(\mathbb{E}_{\hat{y}} \text{KL}(p(y\|\hat{y}) \| p(y))\right)$$|Perceptual Realism|
+|LPIPS|Learned Perceptual Image Patch Similarity|$$\sum_{l} \frac{1}{H_lW_l}\sum_{h,w} \|w_l \odot (\phi_l(y)_{hw} - \phi_l(\hat{y})_{hw})\|^2_2$$|Perceptual Realism|
+
+</div>
 
 ## 🥰 Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/DL4VS&type=Date)](https://star-history.com/#diaoquesang/DL4VS&Date)
