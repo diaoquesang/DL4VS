@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2193b0,100:45ed3F&text=Deep%20Learning%20for%20Virtual%20Staining%20of%20Label-Free%20Tissue:%20A%20Survey&fontSize=25&fontAlignY=40&fontColor=FFFFFF)
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F193b0,100:F050C0&text=Deep%20Learning%20for%20Virtual%20Staining%20of%20Label-Free%20Tissue:%20A%20Survey&fontSize=25&fontAlignY=40&fontColor=FFFFFF)
 ](#top)
 
 </div>
