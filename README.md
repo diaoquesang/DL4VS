@@ -43,3 +43,8 @@
 
 ## 🧮 4. Metrics <div id = "s4"></div>
 
+## 🥰 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/DL4VS&type=Date)](https://star-history.com/#diaoquesang/DL4VS&Date)
+
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F193b0,100:F050C0&text=Back%20to%20Top&section=footer&fontSize=30&fontAlignY=65&fontColor=FFFFFF)
+](#top)
