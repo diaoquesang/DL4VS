@@ -69,14 +69,14 @@ Recent advances in DL models (e.g., GANs, U-Nets, diffusion models) have demonst
 
 <div align="center">
 
-|Source|Year|Title|Graph|Paper|Code|
-|-|-|-|-|-|-|
-|Nature Communications|2025|Pixel Super-Resolved Virtual Staining of Label-Free Tissue Using Diffusion Models|![image](https://github.com/user-attachments/assets/e44d8ace-6b73-4e3d-baf6-917b86c89fd2)|[:turtle:](https://www.nature.com/articles/s41467-025-60387-z)|[:octocat:](https://github.com/Yijie-Zhang/Super-resolved-virtual-staining)|
-|Nature Communications|2024|Virtual Histological Staining of Unlabeled Autopsy Tissue|![image](https://github.com/user-attachments/assets/e54e0668-0ee1-4d37-890d-12bf7e409bf4)|[:turtle:](https://www.nature.com/articles/s41467-024-46077-2)|[:octocat:](https://github.com/liyuzhu1998/Autopsy-Virtual-Staining/)|
-|Trends in Biotechnology|2024|Virtual Staining for Histology by Deep Learning|![image](https://github.com/user-attachments/assets/ca664665-d15c-4a98-969c-cd20461aea9c)|[:turtle:](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(24)00038-6)||
-|Modern Pathology|2024|Virtual Staining of Nonfixed Tissue Histology|![image](https://github.com/user-attachments/assets/afa8c104-d90d-4dfd-b33e-6b3993e4f91f)|[:turtle:](https://www.sciencedirect.com/science/article/pii/S0893395224000243)||
-|Light-Science & Applications|2023|Deep Learning-Enabled Virtual Histological Staining of Biological Samples|![image](https://github.com/user-attachments/assets/e3fdf413-c8a9-4eda-8e90-a87e47158b26)|[:turtle:](https://www.nature.com/articles/s41377-023-01104-7)||
-|Nature Biomedical Engineering|2019|Virtual Histological Staining of Unlabelled Tissue-Autofluorescence Images via Deep Learning|![image](https://github.com/user-attachments/assets/8c9d3ae5-d504-4114-8af8-0bf79e16ec4e)|[:turtle:](https://www.nature.com/articles/s41551-019-0362-y)||
+|Source|Year|Title|Graph|Code|
+|-|-|-|-|-|
+|Nature Communications|2025|[Pixel Super-Resolved Virtual Staining of Label-Free Tissue Using Diffusion Models](https://www.nature.com/articles/s41467-025-60387-z)|![image](https://github.com/user-attachments/assets/e44d8ace-6b73-4e3d-baf6-917b86c89fd2)|[:octocat:](https://github.com/Yijie-Zhang/Super-resolved-virtual-staining)|
+|Nature Communications|2024|[Virtual Histological Staining of Unlabeled Autopsy Tissue](https://www.nature.com/articles/s41467-024-46077-2)|![image](https://github.com/user-attachments/assets/e54e0668-0ee1-4d37-890d-12bf7e409bf4)|[:octocat:](https://github.com/liyuzhu1998/Autopsy-Virtual-Staining/)|
+|Trends in Biotechnology|2024|[Virtual Staining for Histology by Deep Learning](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(24)00038-6)|![image](https://github.com/user-attachments/assets/ca664665-d15c-4a98-969c-cd20461aea9c)||
+|Modern Pathology|2024|[Virtual Staining of Nonfixed Tissue Histology](https://www.sciencedirect.com/science/article/pii/S0893395224000243)|![image](https://github.com/user-attachments/assets/afa8c104-d90d-4dfd-b33e-6b3993e4f91f)||
+|Light-Science & Applications|2023|[Deep Learning-Enabled Virtual Histological Staining of Biological Samples](https://www.nature.com/articles/s41377-023-01104-7)|![image](https://github.com/user-attachments/assets/e3fdf413-c8a9-4eda-8e90-a87e47158b26)||
+|Nature Biomedical Engineering|2019|[Virtual Histological Staining of Unlabelled Tissue-Autofluorescence Images via Deep Learning](https://www.nature.com/articles/s41551-019-0362-y)|![image](https://github.com/user-attachments/assets/8c9d3ae5-d504-4114-8af8-0bf79e16ec4e)||
 
 </div>
 
