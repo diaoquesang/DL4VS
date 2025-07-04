@@ -45,6 +45,12 @@
 
 Traditional histological staining (e.g., H&E, immunofluorescence) is essential for visualizing tissue structures in pathology but involves complex chemical processes, time-consuming protocols, and labor-intensive workflows. Label-free imaging techniques (e.g., autofluorescence, quantitative phase imaging, Raman microscopy) capture intrinsic optical properties of tissues without exogenous labels, preserving samples and accelerating imaging. However, these methods often lack the diagnostic contrast provided by stains.  
 
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/590e24eb-da4c-4043-a850-d2b530b1f711" width="90%">
+
+</div>
+
 **Virtual staining** leverages Deep Learning (DL) to computationally transform label-free tissue images into virtually stained counterparts that resemble chemically stained images. This approach:  
 - **Eliminates physical staining**, reducing costs, preparation time, and chemical waste.  
 - **Enables retrospective analysis** of archived label-free data.  
@@ -55,7 +61,7 @@ Recent advances in DL models (e.g., GANs, U-Nets, diffusion models) have demonst
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/590e24eb-da4c-4043-a850-d2b530b1f711" width="90%">
+<img src="https://github.com/user-attachments/assets/c92be265-33c6-48f7-9283-44a98afa173c" width="90%">
 
 </div>
 
